@@ -1,0 +1,24 @@
+PODS:
+  - ijkplayer (1.1.3)
+  - librtmp-iOS (1.1.0)
+  - Toast (4.0.0)
+
+DEPENDENCIES:
+  - ijkplayer
+  - librtmp-iOS
+  - Toast
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ijkplayer
+    - librtmp-iOS
+    - Toast
+
+SPEC CHECKSUMS:
+  ijkplayer: 1a1a33f5b0387bd7ea297337853130b9ddb20093
+  librtmp-iOS: bfe6a2978e01ac97160ede5d3ccde9e3c1d1ee58
+  Toast: 91b396c56ee72a5790816f40d3a94dd357abc196
+
+PODFILE CHECKSUM: 11a572ea87a7d19b74f09ff4adce223d05c91f1b
+
+COCOAPODS: 1.7.2
